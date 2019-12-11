@@ -185,7 +185,7 @@
         </option>
         <option>
           <name>CCDefines</name>
-          <state></state>
+          <state>STM32F302x8</state>
         </option>
         <option>
           <name>CCPreprocFile</name>
@@ -314,35 +314,36 @@
         </option>
         <option>
           <name>CCIncludePath2</name>
-          <state>$PROJ_DIR$\..\</state>
+          <state>$PROJ_DIR$\..</state>
           <state>$PROJ_DIR$\..\..\chibios191\os\license</state>
           <state>$PROJ_DIR$\..\..\chibios191\os\common\startup\ARMCMx\devices\STM32F3xx</state>
           <state>$PROJ_DIR$\..\..\chibios191\os\common\ext\ARM\CMSIS\Core\Include</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\common\ext\ST\STM32F3xx</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\common\ports\ARMCMx</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\common\ports\ARMCMx\compilers\IAR</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\oslib\include</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\rt\include</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\osal\rt</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\include</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\common\ARMCMx</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\STM32F3xx</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\ADCv3</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\CANv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\DMAv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\test\lib</state>
-          <state>D:\Chibios_Sandbox\chibios191\test\rt\source\test</state>
-          <state>D:\Chibios_Sandbox\NUCLEOF302R8_1\Inc</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\EXTIv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\GPIOv2</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\I2Cv2</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\RTCv2</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\SPIv2</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\TIMv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\USARTv2</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\USBv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\hal\ports\STM32\LLD\xWDGv1</state>
-          <state>D:\Chibios_Sandbox\chibios191\test\oslib\source\test</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\ext\ST\STM32F3xx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\ports\ARMCMx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\ports\ARMCMx\compilers\IAR</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\oslib\include</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\rt\include</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\osal\rt</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\include</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\common\ARMCMx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\STM32F3xx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\ADCv3</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\CANv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\DMAv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\test\lib</state>
+          <state>$PROJ_DIR$\..\..\chibios191\test\rt\source\test</state>
+          <state>$PROJ_DIR$\..\Inc</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\EXTIv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\GPIOv2</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\I2Cv2</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\RTCv2</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\SPIv2</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\TIMv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\USARTv2</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\USBv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\hal\ports\STM32\LLD\xWDGv1</state>
+          <state>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\startup\ARMCMx\compilers\IAR</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
@@ -362,7 +363,7 @@
         </option>
         <option>
           <name>CCOptLevel</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>CCOptStrategy</name>
@@ -371,7 +372,7 @@
         </option>
         <option>
           <name>CCOptLevelSlave</name>
-          <state>1</state>
+          <state>0</state>
         </option>
         <option>
           <name>CompilerMisraRules98</name>
@@ -601,10 +602,12 @@
         <option>
           <name>AUserIncludes</name>
           <state>$PROJ_DIR$\..</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\license</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\common\startup\ARMCMx\devices\STM32F3xx</state>
-          <state>D:\Chibios_Sandbox\chibios191\os\common\ports\ARMCMx</state>
           <state>$PROJ_DIR$\..\Inc</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\startup\ARMCMx\devices\STM32F3xx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\ports\ARMCMx</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\common\ports\ARMCMx\compilers\IAR</state>
+          <state>$PROJ_DIR$\..\..\chibios191\os\oslib\include</state>
+          <state>D:\Chibios_Sandbox\chibios191\os\license</state>
         </option>
         <option>
           <name>AExtraOptionsCheckV2</name>
@@ -1986,6 +1989,27 @@
     <configuration>Release</configuration>
   </mfc>
   <group>
+    <name>board</name>
+    <file>
+      <name>$PROJ_DIR$\..\Src\board.c</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Inc\board.h</name>
+    </file>
+  </group>
+  <group>
+    <name>conf</name>
+    <file>
+      <name>$PROJ_DIR$\..\Inc\chconf.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Inc\halconf.h</name>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Inc\mcuconf.h</name>
+    </file>
+  </group>
+  <group>
     <name>os</name>
     <group>
       <name>common</name>
@@ -2012,9 +2036,6 @@
             <name>$PROJ_DIR$\..\..\chibios191\os\oslib\src\chpipes.c</name>
           </file>
         </group>
-      </group>
-      <group>
-        <name>port</name>
       </group>
       <group>
         <name>startup</name>
@@ -2049,15 +2070,6 @@
     </group>
     <group>
       <name>hal</name>
-      <group>
-        <name>board</name>
-        <file>
-          <name>$PROJ_DIR$\..\Src\board.c</name>
-        </file>
-        <file>
-          <name>$PROJ_DIR$\..\Inc\board.h</name>
-        </file>
-      </group>
       <group>
         <name>lib</name>
         <group>
@@ -2287,14 +2299,71 @@
   </group>
   <group>
     <name>test</name>
-    <excluded>
-      <configuration>Debug</configuration>
-    </excluded>
     <group>
       <name>lib</name>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\lib\ch_test.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\lib\ch_test.h</name>
+      </file>
     </group>
     <group>
       <name>source</name>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_root.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_root.h</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_sequence_001.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_sequence_002.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_sequence_003.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_sequence_004.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\oslib\source\test\oslib_test_sequence_005.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_root.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_001.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_002.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_003.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_004.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_005.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_006.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_007.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_008.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_009.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\chibios191\test\rt\source\test\rt_test_sequence_010.c</name>
+      </file>
     </group>
   </group>
   <file>

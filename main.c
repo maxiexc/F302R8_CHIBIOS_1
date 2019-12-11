@@ -16,7 +16,7 @@
 
 #include "ch.h"
 #include "hal.h"
-//#include "rt_test_root.h"
+#include "rt_test_root.h"
 //#include "oslib_test_root.h"
 
 /*
@@ -29,9 +29,9 @@ static THD_FUNCTION(Thread1, arg) {
   chRegSetThreadName("blinker");
   while (true) {
     palClearPad(GPIOB, GPIOB_LED_GREEN);
-    chThdSleepMilliseconds(500);
+    chThdSleepMilliseconds(100);
     palSetPad(GPIOB, GPIOB_LED_GREEN);
-    chThdSleepMilliseconds(500);
+    chThdSleepMilliseconds(100);
   }
 }
 
@@ -53,7 +53,7 @@ int main(void) {
   /*
    * Activates the serial driver 2 using the driver default configuration.
    */
-  //sdStart(&SD2, NULL);
+  sdStart(&SD2, NULL);
 
   /*
    * Creates the blinker thread.
