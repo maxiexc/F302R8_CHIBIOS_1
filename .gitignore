@@ -1,0 +1,27 @@
+# Specify filepatterns you want git to ignore.
+
+#Compilar project files
+*.dep
+*.ewt
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Object files
+*.o
+*.pbi
+# Description files
+*.html
+
+# Documents currently open in windows
+*.autosave
+*.asv
+*~
+
+# Build files
+settings/
+Debug/
+
+
